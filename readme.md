@@ -12,7 +12,7 @@
 
 ### dev-docs(In Chinese)
 [RoboMaster开发板C型嵌入式软件教程文档.pdf](RoboMaster开发板C型嵌入式软件教程文档.pdf)
-### 配套例程
+### Code examples
 * [0.cubemx new project](0.new_cubemx_program)
 * [1.turn on LED](1.light_led)
 * [2.shrinking LED](2.flash_light)
